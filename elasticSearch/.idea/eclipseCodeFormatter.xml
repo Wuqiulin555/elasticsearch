@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="formatter" value="ECLIPSE" />
+        <option name="pathToConfigFileJava" value="$MAVEN_REPOSITORY$/org/eclipse/jdt/core/compiler/ecj/4.3.1/ecj-4.3.1-sources.jar.sha1" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>
